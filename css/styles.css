@@ -9,4 +9,7 @@ body{
 textarea{
     resize: none;
     outline-style: auto;
+    background-color: #f8f8f8;
+    border-radius: 4px;
+
 }
