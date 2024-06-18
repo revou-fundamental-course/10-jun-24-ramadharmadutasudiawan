@@ -1,15 +1,15 @@
 /* ini CSS */
 body{
 
-    background-color: rgb(140, 155, 196);
+    background-image: url('assets/WhatsApp Image 2024-06-18 at 5.16.50 PM.jpeg');
     color: whitesmoke;
-    font-family: Arial, Helvetica, sans-serif;
-}
+}  
 
 textarea{
     resize: none;
-    outline-style: auto;
     background-color: #f8f8f8;
-    border-radius: 4px;
+    border-radius: 10px;
+   
 
 }
+
